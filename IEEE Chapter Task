@@ -1,6 +1,25 @@
+Programming & OOP
+Question 1:
 
+Question 2:
+B. Class
+
+HTTP & Network 
+Question 1:
+Server (Youtube) is the targeted end that recieves requests from the client
+Client is the browser that sends requests to the server
+End-User is the person / side trying to access the server side (Youtube)
+
+Question 2:
+Method: GET
+Status Code: 200 OK
+
+Databases 
 SELECT
   name, phone, email
 FROM
   Users 
   where age >= 20;
+
+
+
