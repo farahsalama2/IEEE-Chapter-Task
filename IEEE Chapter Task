@@ -1,0 +1,6 @@
+
+SELECT
+  name, phone, email
+FROM
+  Users 
+  where age >= 20;
