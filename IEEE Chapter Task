@@ -1,6 +1,6 @@
 Programming & OOP
 Question 1:
-
+I couldn't solve this question
 Question 2:
 B. Class
 
@@ -8,7 +8,7 @@ HTTP & Network
 Question 1:
 Server (Youtube) is the targeted end that recieves requests from the client
 Client is the browser that sends requests to the server
-End-User is the person / side trying to access the server side (Youtube)
+End-User is the person / side trying to access the server side (Youtube) using the client side
 
 Question 2:
 Method: GET
@@ -20,6 +20,8 @@ SELECT
 FROM
   Users 
   where age >= 20;
+
+(Table's Name: Users)
 
 
 
